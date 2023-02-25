@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://movie:library@movielibrarycluster.9bmt8cr.mongodb.net/?retryWrites=true&w=majority"
+}
